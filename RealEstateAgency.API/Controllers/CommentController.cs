@@ -10,7 +10,7 @@ namespace RealEstateAgency.API.Controllers;
 [Route("api/[controller]")]
 public class CommentController(ICommentsService commentsService, IUserService userService, ApiMapper mapper): ControllerBase
 {
-    [HttpPost("get-comments-by-announcement_id")]
+    [HttpPost("get-comments-by-announcement-id")]
     public async Task<IActionResult> GetCommentsByAnnouncementId([FromBody] Guid announcementId)
     {
         var comments = await commentsService.GetAllByAnnouncementId(announcementId);

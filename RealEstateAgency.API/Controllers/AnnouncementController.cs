@@ -169,7 +169,7 @@ public class AnnouncementController(
         return Ok(response);
     }
 
-    [HttpPost("buy-property-by-announcement_id")]
+    [HttpPost("buy-property-by-announcement-id")]
     public async Task<IActionResult> BuyPropertyByAnnouncement([FromBody] BuyRequest request)
     {
         var paymentDto = mapper.BuyRequestToPaymentDto(request);
