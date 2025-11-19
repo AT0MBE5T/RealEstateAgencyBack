@@ -1,0 +1,549 @@
+[
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AccountController",
+    "Method": "ChangeEmail",
+    "RelativePath": "api/Account/change-email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealEstateAgency.API.Dto.ChangeEmailRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AccountController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Account/change-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealEstateAgency.API.Dto.ChangePasswordRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AccountController",
+    "Method": "ChangePhone",
+    "RelativePath": "api/Account/change-phone",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealEstateAgency.API.Dto.ChangePhoneRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AccountController",
+    "Method": "GetReportByUserLogin",
+    "RelativePath": "api/Account/get-report-by-user-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealEstateAgency.API.Dto.ReportUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AccountController",
+    "Method": "GetPersonalStatsByUserId",
+    "RelativePath": "api/Account/get-stats-by-user-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AccountController",
+    "Method": "GetUserDtoById",
+    "RelativePath": "api/Account/get-user-dto-by-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AnnouncementController",
+    "Method": "AddAnnouncement",
+    "RelativePath": "api/Announcement/add-announcement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Photo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "PropertyType",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "StatementType",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "Location",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Area",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "Floors",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Rooms",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Content",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AnnouncementController",
+    "Method": "BuyPropertyByAnnouncement",
+    "RelativePath": "api/Announcement/buy-property-by-announcement_id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealEstateAgency.API.Dto.BuyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AnnouncementController",
+    "Method": "DeleteAnnouncement",
+    "RelativePath": "api/Announcement/delete-announcement-by-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "announcementId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AnnouncementController",
+    "Method": "GetAnnouncementFullById",
+    "RelativePath": "api/Announcement/get-announcement-full-by-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AnnouncementController",
+    "Method": "GetBoughtAnnouncementsByUserId",
+    "RelativePath": "api/Announcement/get-bought-by-user-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealEstateAgency.API.Dto.AnnouncementsStatRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AnnouncementController",
+    "Method": "GetPages",
+    "RelativePath": "api/Announcement/get-pages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AnnouncementController",
+    "Method": "GetPlacedAnnouncementsByUserId",
+    "RelativePath": "api/Announcement/get-placed-by-user-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealEstateAgency.API.Dto.AnnouncementsStatRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AnnouncementController",
+    "Method": "GetSoldAnnouncementsByUserId",
+    "RelativePath": "api/Announcement/get-sold-by-user-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealEstateAgency.API.Dto.AnnouncementsStatRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.AnnouncementController",
+    "Method": "Search",
+    "RelativePath": "api/Announcement/search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealEstateAgency.API.Dto.SearchRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.CommentController",
+    "Method": "AddComment",
+    "RelativePath": "api/Comment/add-comment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "commentDto",
+        "Type": "RealEstateAgency.Application.Dto.CommentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.CommentController",
+    "Method": "DeleteCommentById",
+    "RelativePath": "api/Comment/delete-comment-by-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "commentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.CommentController",
+    "Method": "GetCommentsByAnnouncementId",
+    "RelativePath": "api/Comment/get-comments-by-announcement_id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "announcementId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.ImageController",
+    "Method": "GetByStatementId",
+    "RelativePath": "api/Image/get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.ImageController",
+    "Method": "Upload",
+    "RelativePath": "api/Image/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "RealEstateAgency.API.Dto.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.PropertyTypeController",
+    "Method": "GetPropertyTypes",
+    "RelativePath": "api/PropertyType/get-property-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.PropertyTypeController",
+    "Method": "GetReportByPropertyTypeId",
+    "RelativePath": "api/PropertyType/get-report-by-property-type-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RealEstateAgency.API.Dto.PropertyTypeStatsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.QuestionController",
+    "Method": "AddAnswer",
+    "RelativePath": "api/Question/add-answer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "answerDto",
+        "Type": "RealEstateAgency.Application.Dto.AnswerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.QuestionController",
+    "Method": "AddQuestion",
+    "RelativePath": "api/Question/add-question",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "questionDto",
+        "Type": "RealEstateAgency.Application.Dto.QuestionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.QuestionController",
+    "Method": "DeleteAnswerById",
+    "RelativePath": "api/Question/delete-answer-by-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "answerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.QuestionController",
+    "Method": "DeleteQuestionById",
+    "RelativePath": "api/Question/delete-question-by-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "questionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.QuestionController",
+    "Method": "GetAllByAnnouncementId",
+    "RelativePath": "api/Question/get-all-by-announcement-id",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "announcementId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.RefreshController",
+    "Method": "Logout",
+    "RelativePath": "api/Refresh/logout",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.RefreshController",
+    "Method": "Refresh",
+    "RelativePath": "api/Refresh/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.RegisterController",
+    "Method": "Register",
+    "RelativePath": "api/Register/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerRequest",
+        "Type": "RealEstateAgency.API.Dto.RegisterRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.ReportController",
+    "Method": "GetGeneralReport",
+    "RelativePath": "api/Report/get-general-report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstateAgency.API.Controllers.StatementTypeController",
+    "Method": "GetStatementTypes",
+    "RelativePath": "api/StatementType/get-statement-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

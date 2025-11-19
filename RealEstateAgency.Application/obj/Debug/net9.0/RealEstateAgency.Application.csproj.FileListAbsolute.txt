@@ -1,0 +1,15 @@
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\bin\Debug\net9.0\RealEstateAgency.Application.deps.json
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\bin\Debug\net9.0\RealEstateAgency.Application.dll
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\bin\Debug\net9.0\RealEstateAgency.Application.pdb
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEstateAgency.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEstateAgency.Application.AssemblyInfoInputs.cache
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEstateAgency.Application.AssemblyInfo.cs
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEstateAgency.Application.csproj.CoreCompileInputs.cache
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEstateAgency.Application.dll
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\refint\RealEstateAgency.Application.dll
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEstateAgency.Application.pdb
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\ref\RealEstateAgency.Application.dll
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\bin\Debug\net9.0\RealEstateAgency.Core.dll
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\bin\Debug\net9.0\RealEstateAgency.Core.pdb
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEstateAgency.Application.csproj.AssemblyReference.cache
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEsta.8D577754.Up2Date
