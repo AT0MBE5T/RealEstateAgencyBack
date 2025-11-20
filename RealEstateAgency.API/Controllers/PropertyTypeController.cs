@@ -16,21 +16,4 @@ public class PropertyTypeController(IPropertyTypeService propertyTypeService): C
         var propertyTypesList = await propertyTypeService.GetAll();
         return Ok(propertyTypesList);
     }
-    
-    [HttpPost("get-report-by-property-type-id")]
-    public async Task<IActionResult> GetReportByPropertyTypeId([FromBody] PropertyTypeStatsRequest request)
-    {
-        var mapped = new ReportPropertyTypeDto
-        {
-            PropertyTypeId = request.PropertyTypeId,
-            DateFrom = DateTime.Parse(request.DateFrom),
-            DateTo = string.IsNullOrEmpty(request.DateTo)
-                ? default
-                : DateTime.Parse(request.DateTo)
-        };
-        
-        return mapped.DateTo == default
-            ? Ok(await propertyTypeService.GetReportByPropertyTypeDate(mapped))
-            : Ok(await propertyTypeService.GetReportByPropertyTypeDateSpan(mapped));
-    }
 }

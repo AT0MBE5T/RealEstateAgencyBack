@@ -2,7 +2,7 @@
 
 namespace RealEstateAgency.Application.Interfaces.Services;
 
-public interface IUserService
+public interface IAccountService
 {
     Task<string> GetNameSurnameById(Guid userId);
     Task<UserDto?> GetUserDtoById(Guid userId);

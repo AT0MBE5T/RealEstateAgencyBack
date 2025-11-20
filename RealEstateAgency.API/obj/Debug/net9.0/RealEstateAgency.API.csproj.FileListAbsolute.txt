@@ -155,3 +155,4 @@ E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.API\obj\Debug\net9
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.API\obj\Debug\net9.0\staticwebassets.build.json.cache
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.API\obj\Debug\net9.0\swae.build.ex.cache
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.API\obj\Debug\net9.0\RealEstateAgency.API.sourcelink.json

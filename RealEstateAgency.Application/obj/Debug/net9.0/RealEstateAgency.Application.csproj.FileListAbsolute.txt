@@ -13,3 +13,4 @@ E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\bin\De
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\bin\Debug\net9.0\RealEstateAgency.Core.pdb
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEstateAgency.Application.csproj.AssemblyReference.cache
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEsta.8D577754.Up2Date
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Application\obj\Debug\net9.0\RealEstateAgency.Application.sourcelink.json

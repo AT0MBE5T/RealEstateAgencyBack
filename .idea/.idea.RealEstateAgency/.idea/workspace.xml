@@ -8,7 +8,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa3ea7f-cba9-47a2-ae91-d44fc232a0fc" name="Changes" comment="" />
+    <list default="true" id="5aa3ea7f-cba9-47a2-ae91-d44fc232a0fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RealEstateAgency/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RealEstateAgency/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/Controllers/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/Controllers/AccountController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/Controllers/CommentController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/Controllers/CommentController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/Controllers/LoginController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/Controllers/PropertyTypeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/Controllers/PropertyTypeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/Controllers/RegisterController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/Controllers/ReportController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/Controllers/ReportController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.API.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.API.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/bin/Debug/net9.0/RealEstateAgency.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/ref/RealEstateAgency.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/ref/RealEstateAgency.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/refint/RealEstateAgency.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/refint/RealEstateAgency.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/Interfaces/Repositories/IUserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/Interfaces/Repositories/IAccountRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/Interfaces/Services/IUserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/Interfaces/Services/IAccountService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/Services/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/Services/AccountService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/bin/Debug/net9.0/RealEstateAgency.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/bin/Debug/net9.0/RealEstateAgency.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/bin/Debug/net9.0/RealEstateAgency.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/bin/Debug/net9.0/RealEstateAgency.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/bin/Debug/net9.0/RealEstateAgency.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/bin/Debug/net9.0/RealEstateAgency.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/bin/Debug/net9.0/RealEstateAgency.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/bin/Debug/net9.0/RealEstateAgency.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/RealEstateAgency.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/ref/RealEstateAgency.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/ref/RealEstateAgency.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/refint/RealEstateAgency.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Application/obj/Debug/net9.0/refint/RealEstateAgency.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Core/bin/Debug/net9.0/RealEstateAgency.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Core/bin/Debug/net9.0/RealEstateAgency.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Core/bin/Debug/net9.0/RealEstateAgency.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Core/bin/Debug/net9.0/RealEstateAgency.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/RealEstateAgency.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/RealEstateAgency.Core.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/RealEstateAgency.Core.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/RealEstateAgency.Core.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/RealEstateAgency.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/RealEstateAgency.Core.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/RealEstateAgency.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/RealEstateAgency.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/RealEstateAgency.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/RealEstateAgency.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/ref/RealEstateAgency.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/ref/RealEstateAgency.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/refint/RealEstateAgency.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Core/obj/Debug/net9.0/refint/RealEstateAgency.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/Repositories/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/Repositories/AccountRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/bin/Debug/net9.0/RealEstateAgency.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/RealEstateAgency.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/ref/RealEstateAgency.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/ref/RealEstateAgency.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/refint/RealEstateAgency.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RealEstateAgency.Infrastructure/obj/Debug/net9.0/refint/RealEstateAgency.Infrastructure.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +89,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AT0MBE5T&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AT0MBE5T/RealEstateAgency.git&quot;,
+    &quot;accountId&quot;: &quot;1ebefbbf-5f49-44fe-a1c3-0da5771196e0&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b8cec6fb23bc404a9c30585d81c749a2291438/c8/d6a0a0b4/DbSet`1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ba03229b8197450d925e741b560ee852e8e920/54/7013ce57/Guid.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,6 +123,8 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ce37be1a06b16c6faa02038d2cc477dd3bca5b217ceeb41c5f2ad45c1bf9/ServiceProvider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d71b89e473fd1c86a44dc03a9d9e68639e1606c79c85f440ef4d1ab5a7dd0/RegisterRequest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.API/Controllers/AnnouncementController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/CSharp/4thCourse/Coursa4/RealEstateAgency/RealEstateAgency.API/Controllers/AnnouncementController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/CSharp/4thCourse/Coursa4/RealEstateAgency/RealEstateAgency.API/Controllers/CommentController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.API/Controllers/RefreshController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.API/Controllers/RegisterController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.API/Dto/AnnouncementResponse.cs" root0="FORCE_HIGHLIGHTING" />
@@ -49,6 +132,8 @@
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.API/Dto/LoginRequestDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.API/Dto/RegisterResponseDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.API/Mapper/ApiMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/CSharp/4thCourse/Coursa4/RealEstateAgency/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/CSharp/4thCourse/Coursa4/RealEstateAgency/RealEstateAgency.API/obj/Debug/net9.0/RealEstateAgency.API.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.Application/Dto/PaymentDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.Application/Dto/PersonalStatsDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.Application/Dto/QuestionDto.cs" root0="FORCE_HIGHLIGHTING" />
@@ -66,6 +151,7 @@
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.Infrastructure/Repositories/AnnouncementRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RealEstateAgency.Infrastructure/Repositories/StatementRepository.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -75,23 +161,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.RealEstateAgency.UI: http.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "XThreadsFramesViewSplitterKey": "0.43959242",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "CodeLensConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.RealEstateAgency.UI: http.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.43959242&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeLensConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.RealEstateAgency.UI: http">
     <configuration name="RealEstateAgency.UI: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/RealEstateAgency.API/RealEstateAgency.API.csproj" />
@@ -199,16 +286,30 @@
       <workItem from="1763495306033" duration="9009000" />
       <workItem from="1763527463230" duration="867000" />
       <workItem from="1763530477914" duration="71000" />
-      <workItem from="1763530565622" duration="50000" />
+      <workItem from="1763530565622" duration="143000" />
+      <workItem from="1763572499992" duration="2731000" />
+      <workItem from="1763615710866" duration="1520000" />
     </task>
+    <task id="LOCAL-00001" summary="refactor: endpoints name">
+      <option name="closed" value="true" />
+      <created>1763575429776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763575429776</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="refactor: endpoints name" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: endpoints name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -225,19 +326,6 @@
           <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="3" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/RealEstateAgency.API/Controllers/RegisterController.cs</url>
-          <line>21</line>
-          <properties documentPath="E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.API\Controllers\RegisterController.cs" containingFunctionPresentation="Method 'Register'">
-            <startOffsets>
-              <option value="815" />
-            </startOffsets>
-            <endOffsets>
-              <option value="891" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/RealEstateAgency.API/Controllers/AnnouncementController.cs</url>
           <line>87</line>

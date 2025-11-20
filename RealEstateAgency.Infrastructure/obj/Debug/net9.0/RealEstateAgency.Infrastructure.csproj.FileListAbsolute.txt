@@ -17,3 +17,4 @@ E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Infrastructure\obj
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Infrastructure\obj\Debug\net9.0\ref\RealEstateAgency.Infrastructure.dll
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Infrastructure\bin\Debug\net9.0\RealEstateAgency.Application.dll
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Infrastructure\bin\Debug\net9.0\RealEstateAgency.Application.pdb
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Infrastructure\obj\Debug\net9.0\RealEstateAgency.Infrastructure.sourcelink.json

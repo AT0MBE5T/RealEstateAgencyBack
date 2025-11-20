@@ -5,7 +5,7 @@ using RealEstateAgency.Application.Mapper;
 
 namespace RealEstateAgency.Application.Services;
 
-public class UserService(IUserRepository repository, ApplicationMapper mapper) : IUserService
+public class AccountService(IAccountRepository repository, ApplicationMapper mapper) : IAccountService
 {
     public async Task<string> GetNameSurnameById(Guid userId)
     {

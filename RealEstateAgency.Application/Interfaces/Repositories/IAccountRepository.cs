@@ -2,7 +2,7 @@
 
 namespace RealEstateAgency.Application.Interfaces.Repositories;
 
-public interface IUserRepository
+public interface IAccountRepository
 {
     Task<User?> GetUserById(Guid userId);
     Task<int> GetPlacedPropertyCntByUserId(Guid userId);

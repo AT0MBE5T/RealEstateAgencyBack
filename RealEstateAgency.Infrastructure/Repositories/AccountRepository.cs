@@ -5,7 +5,7 @@ using RealEstateAgency.Infrastructure.Context;
 
 namespace RealEstateAgency.Infrastructure.Repositories;
 
-public class UserRepository(IDbContextFactory<RealEstateContext> dbContextFactory) : IUserRepository
+public class AccountRepository(IDbContextFactory<RealEstateContext> dbContextFactory) : IAccountRepository
 {
     public async Task<User?> GetUserById(Guid userId)
     {

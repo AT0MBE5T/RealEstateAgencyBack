@@ -8,7 +8,7 @@ namespace RealEstateAgency.API.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class CommentController(ICommentsService commentsService, IUserService userService, ApiMapper mapper): ControllerBase
+public class CommentController(ICommentsService commentsService, IAccountService accountService, ApiMapper mapper): ControllerBase
 {
     [HttpPost("get-comments-by-announcement-id")]
     public async Task<IActionResult> GetCommentsByAnnouncementId([FromBody] Guid announcementId)
@@ -17,7 +17,7 @@ public class CommentController(ICommentsService commentsService, IUserService us
         var tasks = comments
             .Select(async x =>
             {
-                var authorName = await userService.GetNameSurnameById(x.UserId);
+                var authorName = await accountService.GetNameSurnameById(x.UserId);
                 return mapper.CommentDtoToCommentResponse(x, authorName);
             }).ToList();
 

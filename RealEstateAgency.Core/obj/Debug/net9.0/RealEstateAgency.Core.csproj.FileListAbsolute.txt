@@ -10,3 +10,4 @@ E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Core\obj\Debug\net
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Core\obj\Debug\net9.0\RealEstateAgency.Core.pdb
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Core\obj\Debug\net9.0\ref\RealEstateAgency.Core.dll
 E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Core\obj\Debug\net9.0\RealEstateAgency.Core.csproj.AssemblyReference.cache
+E:\CSharp\4thCourse\Coursa4\RealEstateAgency\RealEstateAgency.Core\obj\Debug\net9.0\RealEstateAgency.Core.sourcelink.json
