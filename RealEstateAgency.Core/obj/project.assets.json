@@ -545,26 +545,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "E:\\Programs\\DevExpress\\Components\\Offline Packages": {},
-    "E:\\Programs\\VSSDK\\NuGetPackages": {}
+    "C:\\Users\\atomb\\.nuget\\packages\\": {},
+    "C:\\Programs\\VisualStudioShared\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharp\\4thCourse\\Coursa4\\RealEstateAgency\\RealEstateAgency.Core\\RealEstateAgency.Core.csproj",
+      "projectUniqueName": "C:\\University\\ClonedServer\\Back\\RealEstateAgency.Core\\RealEstateAgency.Core.csproj",
       "projectName": "RealEstateAgency.Core",
-      "projectPath": "E:\\CSharp\\4thCourse\\Coursa4\\RealEstateAgency\\RealEstateAgency.Core\\RealEstateAgency.Core.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharp\\4thCourse\\Coursa4\\RealEstateAgency\\RealEstateAgency.Core\\obj\\",
+      "projectPath": "C:\\University\\ClonedServer\\Back\\RealEstateAgency.Core\\RealEstateAgency.Core.csproj",
+      "packagesPath": "C:\\Users\\atomb\\.nuget\\packages\\",
+      "outputPath": "C:\\University\\ClonedServer\\Back\\RealEstateAgency.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Programs\\DevExpress\\Components\\Offline Packages",
-        "E:\\Programs\\VSSDK\\NuGetPackages"
+        "C:\\Programs\\VisualStudioShared\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 25.1.config",
+        "C:\\Users\\atomb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -573,9 +570,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "E:\\Programs\\DevExpress\\Components\\System\\Components\\Packages": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet9/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
@@ -615,12 +610,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
