@@ -42,7 +42,7 @@ public class AnswersService(IAnswersRepository answersRepository, ApplicationMap
 
         try
         {
-            var answer = await answersRepository.GetAllByQuestionIdAsync(answerId);
+            var answer = await answersRepository.GetAnswerByIdAsync(answerId);
             if (answer == null)
             {
                 await unitOfWork.RollbackAsync();

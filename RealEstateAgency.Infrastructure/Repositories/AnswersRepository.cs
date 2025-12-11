@@ -7,11 +7,11 @@ namespace RealEstateAgency.Infrastructure.Repositories;
 
 public class AnswersRepository(IDbContextFactory<RealEstateContext> dbContextFactory) : IAnswersRepository
 {
-    public async Task<Answer?> GetAllByQuestionIdAsync(Guid id)
+    public async Task<Answer?> GetAnswerByIdAsync(Guid id)
     {
         await using var ctx = await dbContextFactory.CreateDbContextAsync();
         return await ctx.Answers
-            .Where(x => x.QuestionId == id)
+            .Where(x => x.Id == id)
             .AsNoTracking()
             .FirstOrDefaultAsync();
     }
